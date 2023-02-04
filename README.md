@@ -1,5 +1,5 @@
 Name: Yash Khandelwal
 
-i-Transform Training
+i-Transform
 
-This is my SQL Assignments
+
